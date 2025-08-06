@@ -1,1 +1,1 @@
-# Hiro-s-Webpage-All-about-me
+Use your own Profile Picture in the file "about.html" which is on line 22 of that file. Feel free to change anything but use a branch. I'm terribly sorry for the errors in "contact.html", feel free to fix it if you can. I really appreciate your help if you can help me with that, Thank you so much.
